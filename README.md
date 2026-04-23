@@ -21,7 +21,7 @@ This project analyzes sales performance across regions, products, and customer s
   
 ##  Dashboard Preview
 
-![Sales Dashboard](sales_dashboard.PNG
+![Sales Dashboard](sales_dashboard.PNG)
 
 ##  Live Access
-(Link to Google Drive or Power BI if interactive)
+(https://docs.google.com/spreadsheets/d/1pw_DtWFaQStV75VrD5H-NooSt2_eTIZ_/edit?usp=sharing&ouid=100666501433524051629&rtpof=true&sd=true)
