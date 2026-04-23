@@ -25,3 +25,5 @@ This project analyzes sales performance across regions, products, and customer s
 
 ##  Live Access
 (https://docs.google.com/spreadsheets/d/1pw_DtWFaQStV75VrD5H-NooSt2_eTIZ_/edit?usp=sharing&ouid=100666501433524051629&rtpof=true&sd=true)
+
+> ⚠️ For full interactivity, please download and open in Microsoft Excel.
