@@ -18,3 +18,7 @@ This project analyzes sales performance across regions, products, and customer s
 - Pivot Tables
 - Power Query
 - Data Visualization
+  
+## 📸 Dashboard Preview
+
+![Sales Dashboard](sales_dashboard.png)
